@@ -15,7 +15,7 @@ If you have these three roles, sometimes could be played by two people as well, 
 
 I usually maintain a board to track candidate statuses and upcoming interviews. The swim lanes denote the statuses or rounds of interview. We also have statuses in between like Waiting to Send coding challenge if there is a delay between these two or if someone else is supposed to pick it up and send it from this column. Each card / entity on this swim lane is a candidate name - using something like Trello or Asana or Notion lets you add details to the card so that the next person looking at this card knows what the process so far has been.
 
-[Candidate tracking board](./Candidate-tracking-board-64cffb4e-4b3b-47e4-8119-138070970a3a.csv)
+[Candidate tracking board](./Candidate-tracking-board.md)
 
 ## Screening
 
@@ -34,16 +34,16 @@ This part of the interview is not about putting the candidate under pressure but
 
 ## Coding exercise
 
-In this part of the process, a candidate interviewing for an engineering position gets to show us some of their coding skills. There is a growing list of coding challenges I have documented [here](./questions/get-to-know.md). These are divided into multiple categories and skill levels - however, this is highly subjective and sometimes I mix and match questions based on what I want to find out or attest. Hence, it is very important to have one senior developer / architect in the first round of interviews to be able to select the right coding challenge to send.
+In this part of the process, a candidate interviewing for an engineering position gets to show us some of their coding skills. There is a growing list of coding challenges I have documented [here](./questions/coding-exercises/). These are divided into multiple categories and skill levels - however, this is highly subjective and sometimes I mix and match questions based on what I want to find out or attest. Hence, it is very important to have one senior developer / architect in the first round of interviews to be able to select the right coding challenge to send.
 
 The list of coding challenges is in no way meant to serve as a guide. It is a collection of resources and hence is amenable. Please feel free to send custom challenges if you think so and add them to the collection for others to use. Also try and explain the persona the challenge is supposed to test and what the reviewers should be looking for when evaluating the challenge.
 
-When sending a coding challenge, there are a few guiding principles we use:
+When sending a coding challenge, there are a few guiding principles I use:
 
 - always ask the candidate to use a git repository and share **a private repository** with us. They can choose to make it public after the interviews are done
 - do not try to sound smart or belittle the candidate (even when hiring freshers or junior engineers) when sending coding exercise
-- be truly cross functional and encourage the use of languages, techniques, frameworks a candidate is comfortable with. There are cases when we need to hire for specific frameworks and language requirements, but in all other cases we should try and be flexible when hiring (diversity is strength 🙂 )
-- give enough time for the candidate to take this exercise. Usually I ask the candidate when they would have 24 - 40 hours available to take this challenge at home and mostly the answer has been Friday evening (😕 developers) Send the email then. You can find a sample email [here](./questions/get-to-know.md)
+- be truly cross functional and encourage the use of languages, techniques, frameworks a candidate is comfortable with. There are cases when one needs to hire for specific frameworks and language requirements, but in all other cases we should try and be flexible when hiring (diversity is strength 🙂 )
+- give enough time for the candidate to take this exercise. Usually I ask the candidate when they would have 24 - 40 hours available to take this challenge at home and mostly the answer has been Friday evening (😕 developers). Send the email then. You can find a sample email [here](./communication/invite-to-coding-exercise.md)
 
 ## Coding challenge
 
