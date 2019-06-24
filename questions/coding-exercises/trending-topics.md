@@ -17,3 +17,15 @@ We design our system so that it considers topic A more popular than topic B (for
 popularity(A) ≥ popularity(B) ⟺ mentions(A) ≥ mentions(B)
 
 * we do not care how the topics are actually derived from user content or user activities as long as the derived topics are represented as textual words. You can assume to get a stream of just topics as well from a system.
+
+### Submission of Results
+
+Please provide the result as a Git repository with this content:
+
+1. The project with all source files and a commit history fit for a king
+
+2. A docker-compose setup
+
+3. A short text document that lists the main steps of building your solution as well as all assumptions/decisions you made in case of unclear requirements or missing information
+
+4. Results could be submitted using any language / framework
